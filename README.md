@@ -69,6 +69,8 @@ No known bugs at this time.
 
 ###### Version 4
 
+- Abdul-Hafiz Yussif [Github](https://github.com/IAmAbdulHafiz)
+
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 - Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
 
